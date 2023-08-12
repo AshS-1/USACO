@@ -1,3 +1,3 @@
 # USACO
-My solution code for past USACO problems (in Java).
+My solution code for past USACO problems.
 Problems from usaco.org
